@@ -1,7 +1,8 @@
 # Name
 Nice to see you, my name is **Tim**!
 ## Occupation 
-I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). 
+I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). Here's the our emblem. 
+! [] https://www.hse.ru/data/2012/01/18/1263804436/logo_с_hse_Pantone286.eps 
 ### Hobbies
 It is my considered opinion that I'm a sportive person so as I:
    - play football twice a week;
@@ -17,4 +18,4 @@ Moreover, I learn
 I personally find describing myself in a way I did just now as a really tiresome activity.
 ###### Some more information 
 By the way you can look at [me](https://vk.com/timonleonov) in VK, and finally I'm sending to you my wonderful picture.
-![] https://pp.userapi.com/c840733/v840733989/4b323/rn6oIFeJfAI.jpg
+![] 
