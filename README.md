@@ -8,9 +8,15 @@ It is my considered opinion that I'm a sportive person so as I:
    + go the swimming pool once a week;
    - do morning exersises once it two days.
 #### Here you can see my timetable
----|:---:|:---:
 Days|hobbies|languages
-
+---|:---:|:---:
+monday|swimming|
+tuesday||english|
+wednesday||french|
+thursday||french, english, latin
+friday|football|english
+saturday||spanish|
+sunday||football|
 ### Languages   
 Moreover, I learn
    1. English
