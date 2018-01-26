@@ -17,4 +17,4 @@ Moreover, I learn
 I personally find describing myself in a way I did just now as a really tiresome activity.
 ###### Some more information 
 By the way you can look at [me](https://vk.com/timonleonov) in VK, and finally I'm sending to you my wonderful picture.
-![] https://vk.com/timonleonov?z=photo114329286_456240859%2Falbum114329286_0%2Frev
+![] https://commons.wikimedia.org/wiki/File:Cajal_bodies.jpg#/media/File:Cajal_bodies.jpg
