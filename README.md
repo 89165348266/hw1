@@ -7,7 +7,7 @@ I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). Here'
 It is my considered opinion that I'm a sportive person so as I:
    - play football twice a week;
    + go to the swimming pool once a week;
-   - do morning exersises once it two days.
+   - do morning exercises every second day.
 ### Languages   
 Moreover, I learn
    1. English
