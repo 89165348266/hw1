@@ -9,10 +9,10 @@ It is my considered opinion that I'm a sportive person so as I:
    - do morning exersises once it two days.
 #### Languages   
 Moreover, I learn
-   i. English
-   ii. French
-   iii. Latin
-   iv. Spanish
+   1. English
+   2. French
+   3. Latin
+   4. Spanish
 ##### What I don't like 
 A really tiresome activity for me personally is describing myself in a way I did just now.
 ###### Some more information 
