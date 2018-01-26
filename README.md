@@ -2,7 +2,7 @@
 Nice to see you, my name is **Tim**!
 ## Occupation 
 I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). Here's the our emblem. 
-![] https://www.hse.ru/data/2012/01/18/1263804436/logo_с_hse_Pantone286.eps
+![] {https://www.hse.ru/data/2012/01/18/1263804436/logo_с_hse_Pantone286.eps)
 ### Hobbies
 It is my considered opinion that I'm a sportive person so as I:
    - play football twice a week;
