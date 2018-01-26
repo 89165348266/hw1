@@ -6,8 +6,14 @@ I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). Here'
 ### Hobbies
 It is my considered opinion that I'm a sportive person so as I:
    - play football twice a week;
-   + go the swimming pool once a week;
+   + go to the swimming pool once a week;
    - do morning exersises once it two days.
+### Languages   
+Moreover, I learn
+   1. English
+   2. French
+   3. Latin
+   4. Spanish
 #### Here you can see my timetable
 *Days*|*hobbies*|*languages*
 ---|:---:|:---:
@@ -18,12 +24,6 @@ thursday||french, english, latin
 friday|football|english
 saturday||spanish|
 sunday|football|
-### Languages   
-Moreover, I learn
-   1. English
-   2. French
-   3. Latin
-   4. Spanish
 ##### What I don't like 
 I personally find describing myself in a way I did just now as a really tiresome activity.
 ###### Some more information 
