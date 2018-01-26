@@ -23,8 +23,8 @@ wednesday||french|
 thursday||french, english, latin
 friday|football|english
 saturday||spanish|
-sunday|football|
+sunday|football|english
 ##### What I don't like 
-I personally find describing myself in a way I did just now as a really tiresome activity.
+I, personally, find describing myself in a way I did just now as a really tiresome activity.
 ###### Some more information 
-By the way you can look at [me](https://vk.com/timonleonov) in VK, where we can get acquianted. 
+By the way, you can look at [me](https://vk.com/timonleonov) in VK, where we can get acquianted. 
