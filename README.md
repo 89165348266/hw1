@@ -1,7 +1,7 @@
 # Name
 Nice to see you, my name is **Tim**!
 ## Occupation 
-I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). Here's the our emblem. ![](<<p><a href="https://en.wikipedia.org/wiki/File:National_Research_University_Higher_School_of_Economics_logo.jpg#/media/File:National_Research_University_Higher_School_of_Economics_logo.jpg"><img src="https://upload.wikimedia.org/wikipedia/en/5/51/National_Research_University_Higher_School_of_Economics_logo.jpg" alt="National Research University Higher School of Economics logo.jpg"></a><br>By Source, <a href="//en.wikipedia.org/wiki/File:National_Research_University_Higher_School_of_Economics_logo.jpg" title="Fair use of copyrighted material in the context of National Research University Higher School of Economics">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=27177778">Link</a></p>>)
+I'm a student of the [Higher School of Economics](https://www.hse.ru/en/). Here's the our emblem. ![](http://sch554uz.mskobr.ru/images/%286%29.png)
 ### Hobbies
 It is my considered opinion that I'm a sportive person so as I:
    - play football twice a week;
