@@ -16,5 +16,4 @@ Moreover, I learn
 ##### What I don't like 
 I personally find describing myself in a way I did just now as a really tiresome activity.
 ###### Some more information 
-By the way you can look at [me](https://vk.com/timonleonov) in VK, and finally I'm sending to you my wonderful picture.
-
+By the way you can look at [me](https://vk.com/timonleonov) in VK, where we can get acquianted. 
