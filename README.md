@@ -14,7 +14,7 @@ Moreover, I learn
    3. Latin
    4. Spanish
 ##### What I don't like 
-A really tiresome activity for me personally is describing myself in a way I did just now.
+I personally find describing myself in a way I did just now as a really tiresome activity.
 ###### Some more information 
 By the way you can look at [me](https://vk.com/timonleonov) in vk, and finally I'm sending to you my wonderful picture.
-https://pp.userapi.com/c824201/v824201073/5682d/qN7DtKbFm2c.jpg
+![] https://pp.userapi.com/c824201/v824201073/5682d/qN7DtKbFm2c.jpg
